@@ -70,4 +70,6 @@ On va généraliser le code produit dans la partie précédente au cas des image
 
 ## refs
 
-Voir le répertoire [./refs](./refs)
+- livre de A. Tveito et R. Winther, disponible en ligne via Babord+
+  https://babordplus.hosted.exlibrisgroup.com/permalink/f/165335h/TN_springer_s3-540-26740-9_47993
+- Voir et compléter le répertoire [./refs](./refs)
